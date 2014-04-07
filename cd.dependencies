@@ -1,0 +1,12 @@
+[
+  {
+    "branch": "cm-11.0",
+    "repository": "CyanogenMod/android_device_htc_s4-common",
+    "target_path": "device/htc/s4-common"
+  },
+ { 
+   "branch": "cm-11.0", 
+   "repository": "TheMuppets/proprietary_vendor_htc", 
+   "target_path": "vendor/htc" 
+ } 
+]
